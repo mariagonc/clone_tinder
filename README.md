@@ -19,3 +19,5 @@ Utilitários
 ## 💻 Projeto
 
 Esse projeto faz parte do programa de formação Todas Tech, da Ímã Tech. Desenvolvido para praticar HTML e CSS.
+
+- [Visite o projeto online](https://mariagonc.github.io/clone_tinder/)
